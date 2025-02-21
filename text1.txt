@@ -3,4 +3,4 @@ sign in with my laptop and others device.
 and also changed my sign in css responsive.
 now i want to add github some docs and pull.
 just now abc.
-let now gug fixed doc.
+let now bug issue fixed doc.
